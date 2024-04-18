@@ -1,15 +1,17 @@
-# ini pembelajaran Variabel
-e = 9
-i = 4
-haqi = 3
-haqi_ganteng = 100
-kata10 = 10
-print("nilai sy adalah =",e)
-print("nilai sy adalah =",i)
-print("nilai sy adalah =",haqi)
-print("nilai sy adalah =",haqi_ganteng)
-#intup kedua
-e = 6
-print("nilai sy adalah =",e)
-z = e
-print("nilai sy adalah =",z)
+# Contoh kode dengan berbagai tipe data variabel
+
+# Integer
+umur = 19
+
+# Float
+berat_badan = 55
+nama = "Zainul Haqqi Mr"
+
+# Boolean
+sudah_menikah = False
+
+# Output untuk memeriksa nilai variabel
+print("Nama:", nama)
+print("Umur:", umur)
+print("Berat Badan:", berat_badan)
+print("Sudah Menikah:", sudah_menikah)
